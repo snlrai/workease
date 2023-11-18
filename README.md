@@ -26,5 +26,5 @@ Download NodeJs for your OS(choose LTS) from the following link https://nodejs.o
  Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.<br/>
 
 # How To Create A Pull Request
-[Youtube](https://youtu.be/8lGpZkjnkt4?t=61)
- **Sync** Dont forget to sync changes everyday before you start editing the repo.
+[Youtube](https://youtu.be/8lGpZkjnkt4?t=61) Watch this tutorial for the same.
+<b> Dont forget to sync changes everyday before you start editing the repo.</b>
