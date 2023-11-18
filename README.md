@@ -27,4 +27,5 @@ Download NodeJs for your OS(choose LTS) from the following link https://nodejs.o
 
 # How To Create A Pull Request
 [Youtube](https://youtu.be/8lGpZkjnkt4?t=61) Watch this tutorial for the same.
+<br>
 <b> Dont forget to sync changes everyday before you start editing the repo.</b>
