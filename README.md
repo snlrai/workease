@@ -13,8 +13,7 @@ Download NodeJs for your OS(choose LTS) from the following link https://nodejs.o
 1. Open terminal and navigate through the directory where you have forked this repository.
 2. Run the command <code>npm i</code> inside the workease folder.
 3. Now, run the command <code>npm start</code>. This will open a new tab on your browser with some localhost.
-
- **Commit** your changes to your github repository by using the following commands
+4. Commit your changes to your github repository by using the following commands
    ```bash
    git add .
    ```
@@ -25,6 +24,7 @@ Download NodeJs for your OS(choose LTS) from the following link https://nodejs.o
    ```bash
    git push
  Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.<br/>
-   **How To Create A Pull Request**<br/>
-    [Youtube](https://youtu.be/8lGpZkjnkt4?t=61)
+
+# How To Create A Pull Request
+[Youtube](https://youtu.be/8lGpZkjnkt4?t=61)
  **Sync** Dont forget to sync changes everyday before you start editing the repo.
